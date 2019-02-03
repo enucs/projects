@@ -12,8 +12,7 @@ Projects
 | Project | Who | Description | Topics | Link |
 |---------|-----|-------------|--------|------|
 | Distance-Calculator | Toby | An application that uses Google Maps API to calculate the distance between two cities  | Java, JSON | https://github.com/MrRa1n/Distance-Calculator |
-| QuackathonRubeGoldberg2019 | Raish, Toby, Miguel, Andrei, Mihail | 
-An utterly useless, but stupidly complex programatically-made Rube Goldberg machine for the 2019 Quackathon. | Python, Laravel, C++, C, JavaScript, HTML, C# | https://github.com/wrestlerdude/QuackathonRubeGoldberg2019 |
+| QuackathonRubeGoldberg2019 | Raish, Toby, Miguel, Andrei, Mihail | An utterly useless, but stupidly complex programatically-made Rube Goldberg machine for the 2019 Quackathon. | Python, Laravel, C++, C, JavaScript, HTML, C# | https://github.com/wrestlerdude/QuackathonRubeGoldberg2019 |
 
 
 
